@@ -1,0 +1,33 @@
+body {background-color:#f0f3bd}
+
+header {background-color:#aed9e0; height: 150px; 
+
+}
+
+header nav {
+  float: right;
+  margin-right: 500px;
+  
+}
+section nav ol li a{
+  color:#032330;
+ display: inline-block;
+  text-decoration: none;
+ 
+
+}
+h1 {
+  color:#0b4b64
+  font-family: "Lucida Console", "Courier New", monospace;
+  ;
+ 
+}
+h4{color:#0b4b64;}
+
+section {background-color:#aed9e0;
+}
+
+p{
+color:#0b4b64;
+display: inline;
+}
